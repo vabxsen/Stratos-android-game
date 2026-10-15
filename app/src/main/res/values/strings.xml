@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stratos</string>
+    <string name="lede">Drop each slab onto the tower and climb from sunrise into the stars. Land it exactly and it stays whole. Land three in a row and it grows back.</string>
+    <string name="start">Start climbing</string>
+    <string name="again">Climb again</string>
+    <string name="resume">Resume</string>
+    <string name="end_run">End this run</string>
+    <string name="share">Share score</string>
+    <string name="share_title">Share your height</string>
+    <string name="paused">Paused</string>
+    <string name="paused_lede">Your tower will wait. Tap anywhere to keep climbing.</string>
+    <string name="best">Best height %1$d</string>
+    <string name="over_best">A new personal best. The sky keeps going.</string>
+    <string name="over_low">Watch the shadow edge and drop when it lines up.</string>
+    <string name="over_good">Nicely built. Can you reach the stars?</string>
+    <string name="hint">Tap anywhere to drop the slab</string>
+    <string name="perfect">Perfect</string>
+    <string name="perfect_combo">Perfect ×%1$d</string>
+    <string name="mute">Mute sound</string>
+    <string name="unmute">Unmute sound</string>
+    <string name="haptics_off">Turn off vibration</string>
+    <string name="haptics_on">Turn on vibration</string>
+    <string name="pause">Pause</string>
+    <string name="game_description">Stacking game. Tap to drop each slab.</string>
+    <plurals name="slabs">
+        <item quantity="one">%d slab</item>
+        <item quantity="other">%d slabs</item>
+    </plurals>
+    <plurals name="height_so_far">
+        <item quantity="one">Height so far: %d slab</item>
+        <item quantity="other">Height so far: %d slabs</item>
+    </plurals>
+    <plurals name="share_text">
+        <item quantity="one">I stacked %d slab in Stratos. Can you climb higher?</item>
+        <item quantity="other">I stacked %d slabs in Stratos. Can you climb higher?</item>
+    </plurals>
+</resources>
